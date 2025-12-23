@@ -7,7 +7,7 @@
 ---- Configuration
 
 --- Width and height of bag inventory (>0)
-local BAG_WIDTH = 3
+local BAG_WIDTH = 9
 local BAG_HEIGHT = 3
 
 --- Sound played when placing/dropping a bag on the ground
